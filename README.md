@@ -116,16 +116,3 @@ The dashboard was built to enable business leaders to intuitively filter the ent
 * **Strategic Credit Campaigns:** Transactions via **Credit Card** reach peak intensity on **Tuesdays** (generating over $26k). Implementing promotional partnerships or targeted cash-back offers on this specific day could boost credit volumes further.
 * **Peak Season Preparation:** Sales show a highly consistent upward trend starting in July and peaking in October ($76,035). Marketing budgets and logistics capabilities should be heavily prioritized and scaled up during Q3 to capitalize on this peak.
 * **Category Focus:** **Clothing** is the leading category on the platform ($115k), closely followed by **Books** ($111k). These two categories combined represent the core driver of the platform's inventory velocity.
-
----
-
-## 🚀 How to Run/Use This Project
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/ecommerce-transactions-analysis.git
-   ```
-2. **Database Setup:** 
-   * Import the dataset into PostgreSQL.
-   * Execute the queries located in the `/sql` directory to verify transaction statistics.
-3. **Tableau Integration:**
-   * Open the `.twbx` file with Tableau Desktop or explore the cloud dashboard directly using the **Tableau Public Link** provided above.
