@@ -5,10 +5,9 @@ A comprehensive data analytics project featuring end-to-end database pipeline co
 ---
 
 ## 📊 Interactive Dashboard
-[**👉 View the Interactive Tableau Dashboard Here**](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[**👉 View the Interactive Tableau Dashboard Here**](https://public.tableau.com/views/E-Commerce_Sales_Dashboard_17841712359720/E-CommerceSalesCustomerBehaviorDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![E-Commerce Dashboard Preview](dashboard_preview.png)
-*(Note: Replace this image with a screenshot of your beautiful Tableau Dashboard!)*
 
 ---
 
